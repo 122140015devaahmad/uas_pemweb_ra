@@ -62,19 +62,6 @@ Teknologi yang digunakan pada pembangunan website ini antara lain adalah:
     ├── 🐘 umkm.php
     └── 🐘 readme.md
 
-my-app/
-├─ node_modules/
-├─ public/
-│  ├─ favicon.ico
-│  ├─ index.html
-│  ├─ robots.txt
-├─ src/
-│  ├─ index.css
-│  ├─ index.js
-├─ .gitignore
-├─ package.json
-├─ README.md
-
 
 ## Instalasi
 - Download repositori dari github
