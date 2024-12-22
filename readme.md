@@ -42,25 +42,25 @@ Teknologi yang digunakan pada pembangunan website ini antara lain adalah:
 
 ## Struktur Folder
 .
-└── ./📁 web_uas_pemweb_ra/
-    ├── ./📁 web_uas_pemweb_ra/📁 assets
-    ├── ./📁 web_uas_pemweb_ra/📁 image/
-    │   ├── ./📁 web_uas_pemweb_ra/📁 image/📁 berita
-    │   └── ./📁 web_uas_pemweb_ra/📁 image/📁 umkm
-    ├── ./📁 web_uas_pemweb_ra/📁 includes/
-    │   └── ./📁 web_uas_pemweb_ra/📁 includes/🐘 db.php
-    ├── ./📁 web_uas_pemweb_ra/📁 style/
-    │   └── ./📁 web_uas_pemweb_ra/📁 style/styles.css
-    ├── ./📁 web_uas_pemweb_ra/🐘 berita.php
-    ├── ./📁 web_uas_pemweb_ra/⛁ db_oop.sql
-    ├── ./📁 web_uas_pemweb_ra/🐘 detailberita.php
-    ├── ./📁 web_uas_pemweb_ra/🐘 detailpengaduan.php
-    ├── ./📁 web_uas_pemweb_ra/🐘 detailumkm.php
-    ├── ./📁 web_uas_pemweb_ra/🐘 index.php
-    ├── ./📁 web_uas_pemweb_ra/🐘 pengaduan.php
-    ├── ./📁 web_uas_pemweb_ra/🐘 profile.php
-    ├── ./📁 web_uas_pemweb_ra/🐘 umkm.php
-    └── ./📁 web_uas_pemweb_ra/🐘 readme.md
+└── 📁 web_uas_pemweb_ra/
+    ├── 📁 assets
+    ├── 📁 image/
+    │   ├── 📁 berita
+    │   └── 📁 umkm
+    ├── 📁 includes/
+    │   └── 🐘 db.php
+    ├── 📁 style/
+    │   └── styles.css
+    ├── 🐘 berita.php
+    ├── ⛁ db_oop.sql
+    ├── 🐘 detailberita.php
+    ├── 🐘 detailpengaduan.php
+    ├── 🐘 detailumkm.php
+    ├── 🐘 index.php
+    ├── 🐘 pengaduan.php
+    ├── 🐘 profile.php
+    ├── 🐘 umkm.php
+    └── 🐘 readme.md
 
 ## Instalasi
 - Download repositori dari github
