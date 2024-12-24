@@ -27,6 +27,11 @@ _**Tentang Website**_: Website ini saya buat sebagai tugas UAS mata kuliah pemog
 - _Modal Menghapus UMKM_, untuk admin melakukan penghapusan UMKM
 - _Modal Menghapus Pengaduan_, untuk admin melakukan penghapusan pengaduan
 
+Website bisa diakses pada Link: [ketapangweb.com](ketapangweb.com)
+Untuk Login sebagai Admin:
+##### Username: admin
+##### Password: admin123456789
+
 ## Teknologi
 
 Teknologi yang digunakan pada pembangunan website ini antara lain adalah:
